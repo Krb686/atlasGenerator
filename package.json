@@ -1,0 +1,30 @@
+{
+  "name": "atlas-track",
+  "version": "0.0.0",
+  "description": "Plot tracks on FlightGear Atlas map",
+  "contributors": [ 
+    {
+      "name": "Kevin Briggs",
+      "email": "BriggsK@pragmatics.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.com/pragile/atlas-track.git"
+  },
+  "keywords": [
+    "gps",
+    "nmea",
+    "atlas"
+  ],
+  "dependencies" : {
+  },
+  "analyze": false,
+  "devDependencies": {
+    "mocha"    :  "*",
+    "should"   :  "*"
+  },
+  "engines": {
+    "node": ">=0.6"
+  }
+}
